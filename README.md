@@ -1,6 +1,3 @@
-# Face-detection-webcam-opencv
-Person Detection along with face and gender using webcam feed. Simultaneously, show the locations of people as dots in a room.
-
 # Problem Statement
 Given front-view video feed of a room (webcam feed from a laptop sitting on a table), estimate & display in real-time, the top-view of people’s location in the room, along with their gender.
 
